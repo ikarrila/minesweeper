@@ -339,7 +339,7 @@ def tappio():
 
 def main():
     #Lataa pelin grafiikat, luo peli-ikkunan ja asettaa siihen piirtokäsittelijän.
-    haravasto.lataa_kuvat("C:/Users/mjunp/Desktop/ohjelmoinnin alkeet/spritet")
+    haravasto.lataa_kuvat("C:/Users/.../spritet")
     haravasto.luo_ikkuna(len(tila["kentta"][0]) * 40, len(tila["kentta"]) * 40)
     haravasto.aseta_hiiri_kasittelija(kasittele_hiiri)
     haravasto.aseta_piirto_kasittelija(piirra_kentta)
