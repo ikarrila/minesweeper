@@ -210,7 +210,7 @@ def aseta_toistuva_kasittelija(kasittelija, toistovali=1/60):
     def paivitys_kasittelija(kulunut_aika):
         # asioita tapahtuu
 
-    Ja se rekisteröidään kutsumalla tätä funktiota: 
+    Ja se rekisteröidään kutsumalla tätä funktiota:
 
     haravasto.aseta_toistuva_kasittelija(paivitys_kasittelija, 1/60)
 
