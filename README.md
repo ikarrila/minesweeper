@@ -1,4 +1,4 @@
-# minesweeper
+# Minesweeper
 A school project to learn the basics of Python
 
 
